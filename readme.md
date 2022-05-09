@@ -1,1 +1,3 @@
-"JUST WPD MICROPROJECT SOURCE CODE" 
+WPD SOURCE CODE
+
+Student Attendance System
